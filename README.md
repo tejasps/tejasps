@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tejasps
-- 👀 I’m interested in anything tech specially cars and mostly cars
+- 👀 I’m interested in anything tech, mostly cars and bikes
 - 🌱 I’m currently learning to code in JAVA and Python along with JS
 - 💞️ I’m looking to collaborate on any beginner projects where I can learn :P
 - 📫 How to reach me? Ping here xD
